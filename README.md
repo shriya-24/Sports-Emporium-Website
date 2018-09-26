@@ -20,17 +20,20 @@ This is an e-Commerce website of all Sports related stuffs
 
 
 a. Name of folder containing all webpages
+
 	sportsweb
+	
 b. Name of database : sports
+
 Username of database : root
+
 Password of database :
 (the password is empty)
 
-
-
-
 c. Database file : sports.sql
+
 d. Steps to install website :
+
 	Copy 	paste the sportsweb folder in xampp/www/htdocs
 	
 	Login 	to localhost/phpmyadmin 	
@@ -48,11 +51,13 @@ d. Steps to install website :
 
 
 	ADMIN
+	
 		username - admin
 		password - admin1234
 
 
 	USER
+	
 		username - ananya10
 		password - ananya10
 
@@ -62,6 +67,7 @@ d. Steps to install website :
 
 
 	GUEST USER
+	
 		Guest User will have to sign up first with his details.
 
 
